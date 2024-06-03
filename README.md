@@ -50,13 +50,13 @@ This project is an e-commerce website designed to provide a seamless shopping ex
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vigneshbalan-mvgs/.git
+    git clone https://github.com/vigneshbalan-mvgs/Shopper.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd landing-page-using-route
+   cd Shopper
    ```
 
 3. Install dependencies:
