@@ -1,5 +1,3 @@
-
-
 # E-Commerce Website
 
 Welcome to the E-Commerce Website project! This project is a fully responsive e-commerce platform built using React.js, HTML, and CSS. The site features user authentication and a complete shopping experience.
@@ -50,13 +48,13 @@ This project is an e-commerce website designed to provide a seamless shopping ex
 1. Clone the repository:
 
    ```bash
-    git clone https://github.com/vigneshbalan-mvgs/Shopper.git
+    git clone https://github.com/vigneshbalan-mvgs/E-Commerce.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Shopper
+   cd E-Commerce
    ```
 
 3. Install dependencies:
@@ -87,5 +85,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [LinkedIn](https://www.linkedin.com/in/vigneshbalan/)
 
 ---
-
-
